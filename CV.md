@@ -27,3 +27,21 @@ turnkey websites.Freelance work is a priority. There is no work experience.*
 Basic knowledge of ***HTML***, ***CSS***, ***JS***, ***REACT***, ***GIT***.
 
 ***
+
+## Code
+
+[codewars.com](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+***
+
+## Project
+
+[on-screen keyboard GitHub](https://github.com/truba84/on-screen-keyboard)
+
+***
