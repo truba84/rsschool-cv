@@ -45,3 +45,9 @@ function multiply(a, b){
 [on-screen keyboard GitHub](https://github.com/truba84/on-screen-keyboard)
 
 ***
+
+### Education and completed courses
+ * Higher education, pedagogical;
+ * JS, REACT (Dmitry Trepachev);
+ * HTML, CSS (PurpleSchool);
+ * English: I read and translate with a dictionary;
