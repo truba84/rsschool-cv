@@ -8,7 +8,7 @@ Email: trubnikoviv84@gmail.com
 
 GitHub: [truba84](https://github.com/truba84)
 
-Discord: [@igor_trubnikov](https://discordapp.com/users/1163013017034834051/)
+Discord: [Igor Trubnikov(@truba84)](https://discordapp.com/users/1163013017034834051/)
 
 Telegram: [@IgorT1984](https://t.me/IgorT1984)
 
